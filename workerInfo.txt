@@ -1,0 +1,433 @@
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
+2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
+3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
+4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
+5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
+6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
+7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
+8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
+9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
+10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
+11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+
+1 Bente Jensen 2 250.50
+1 Bente Jensen 2 250.50
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+%d %s %s %d %.2f
+
+
+

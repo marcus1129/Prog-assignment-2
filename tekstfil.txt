@@ -9,4 +9,3 @@
 9 Tom Bentsen 1 150.00
 10 Clara Larsen 2 200.00
 11 Poul Petersen 3 175.25
- 
