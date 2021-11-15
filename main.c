@@ -271,7 +271,7 @@ void tilfoej(struct Worker* worker, char* firstName, char* surName, int departme
     struct Worker* newWorker = malloc(sizeof(worker));
     worker->nextWorker = newWorker;
     newWorker->prevWorker = worker;
-    newWorker->nextWorker = NULL;
+    //newWorker->nextWorker = NULL;
     worker = newWorker;
 
     worker->workerId = worker->prevWorker->workerId + 1;
@@ -295,18 +295,29 @@ void nysats(struct Worker* worker, int department, float percentIncrease){
 
 void gennemsnit(struct Worker* worker){
     float total;
+    float avgRate;
     int workerCount;
-    int avgRate;
+
+    const char* filePath2 = "./workerInfo";
+    FILE* filePtr3;
+    filePtr3 = fopen(filePath2, "a");
+
     while(worker->prevWorker != NULL){
         worker = worker->prevWorker;
     }
-    while(worker->nextWorker != NULL){
-        total += worker->rate;
-        workerCount++;
+    jumpPoint:
+    total += worker->rate;
+    workerCount++;
+    if(worker->nextWorker != NULL){
         worker = worker->nextWorker;
+        goto jumpPoint;
     }
     avgRate = total/(float)workerCount;
-
+    printf("Average Rate: %d\n", workerCount);
+    if(filePtr3 != NULL){
+        fprintf(filePtr3, "Average Rate: %.2f\n", avgRate);
+    }
+    fclose(filePtr3);
 }
 
 int main()
@@ -318,11 +329,11 @@ int main()
     //Reads all other workers from file, and links them to first worker
     firstWorker = indlaes();
 
-    //Calculates the average rate
-    //gennemsnit(firstWorker);
-
     //Prints all workers information
     udskrivalt(firstWorker);
+
+    //Calculates the average rate
+    gennemsnit(firstWorker);
 
     //Sets new rate
     nysats(firstWorker, 3, 5.f);
@@ -332,7 +343,6 @@ int main()
     tilfoej(firstWorker, "Erik", "Eriksen", 3, 260.75);
     udskrivalt(firstWorker);
     
-
     //Deletes worker 4
     slet(firstWorker, 4);
     udskrivalt(firstWorker);

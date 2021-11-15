@@ -1,111 +1,3 @@
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
-1 Bente Jensen 2 250.50 word: Taken, excel: Taken, database: Taken
-2 Jens Hansen 3 175.25 word: Not taken, excel: Not taken, database: Not taken
-3 Peter Johansen 1 325.00 word: Not taken, excel: Not taken, database: Not taken
-4 Anni Gade 2 199.75 word: Not taken, excel: Not taken, database: Not taken
-5 Merete Hansen 3 225.75 word: Not taken, excel: Not taken, database: Not taken
-6 Anton Holm 1 165.25 word: Taken, excel: Taken, database: Taken
-7 Sonja Andersen 2 235.75 word: Taken, excel: Taken, database: Taken
-8 Niels Nielsen 3 187.50 word: Taken, excel: Taken, database: Taken
-9 Tom Bentsen 1 150.00 word: Taken, excel: Taken, database: Taken
-10 Clara Larsen 2 200.00 word: Taken, excel: Taken, database: Taken
-11 Poul Petersen 3 175.25 word: Taken, excel: Taken, database: Taken
-
 1 Bente Jensen 2 250.50
 2 Jens Hansen 3 175.25
 3 Peter Johansen 1 325.00
@@ -118,329 +10,16 @@
 10 Clara Larsen 2 200.00
 11 Poul Petersen 3 175.25
 
-
-1 Bente Jensen 2 250.50
-1 Bente Jensen 2 250.50
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-%d %s %s %d %.2f
-
-
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
 
 1 Bente Jensen 2 250.50
@@ -455,162 +34,17 @@
 10 Clara Larsen 2 200.00
 11 Poul Petersen 3 175.25
 
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-
-1 Bente Jensen 2 250.50
-2 Jens Hansen 3 175.25
-3 Peter Johansen 1 325.00
-4 Anni Gade 2 199.75
-5 Merete Hansen 3 225.75
-6 Anton Holm 1 165.25
-7 Sonja Andersen 2 235.75
-8 Niels Nielsen 3 187.50
-9 Tom Bentsen 1 150.00
-10 Clara Larsen 2 200.00
-11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
 
 1 Bente Jensen 2 250.50
 2 Jens Hansen 3 175.25
@@ -647,7 +81,17 @@
 9 Tom Bentsen 3 157.50
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
 
 1 Bente Jensen 2 250.50
 2 Jens Hansen 3 175.25
@@ -673,6 +117,18 @@
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
 
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
 1 Bente Jensen 3 263.02
 2 Jens Hansen 3 184.01
 3 Peter Johansen 3 341.25
@@ -684,19 +140,6 @@
 9 Tom Bentsen 3 157.50
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
-
-1 Bente Jensen 3 263.02
-2 Jens Hansen 3 184.01
-3 Peter Johansen 3 341.25
-5 Merete Hansen 3 237.04
-6 Anton Holm 3 173.51
-7 Sonja Andersen 3 247.54
-8 Niels Nielsen 3 196.87
-9 Tom Bentsen 3 157.50
-10 Clara Larsen 3 210.00
-11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
 
 1 Bente Jensen 2 250.50
 2 Jens Hansen 3 175.25
@@ -722,6 +165,18 @@
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
 
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
 1 Bente Jensen 3 263.02
 2 Jens Hansen 3 184.01
 3 Peter Johansen 3 341.25
@@ -733,11 +188,23 @@
 9 Tom Bentsen 3 157.50
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
 
 1 Bente Jensen 3 263.02
 2 Jens Hansen 3 184.01
 3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
 5 Merete Hansen 3 237.04
 6 Anton Holm 3 173.51
 7 Sonja Andersen 3 247.54
@@ -745,5 +212,148 @@
 9 Tom Bentsen 3 157.50
 10 Clara Larsen 3 210.00
 11 Poul Petersen 3 175.25
-12 Erik Eriksen 3 260.75
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 2 250.50
+2 Jens Hansen 3 175.25
+3 Peter Johansen 1 325.00
+4 Anni Gade 2 199.75
+5 Merete Hansen 3 225.75
+6 Anton Holm 1 165.25
+7 Sonja Andersen 2 235.75
+8 Niels Nielsen 3 187.50
+9 Tom Bentsen 1 150.00
+10 Clara Larsen 2 200.00
+11 Poul Petersen 3 175.25
+
+1 Bente Jensen 3 263.02
+2 Jens Hansen 3 184.01
+3 Peter Johansen 3 341.25
+4 Anni Gade 3 209.74
+5 Merete Hansen 3 237.04
+6 Anton Holm 3 173.51
+7 Sonja Andersen 3 247.54
+8 Niels Nielsen 3 196.87
+9 Tom Bentsen 3 157.50
+10 Clara Larsen 3 210.00
+11 Poul Petersen 3 175.25
 
