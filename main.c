@@ -206,7 +206,7 @@ void udskrivalt(struct Worker* worker){
     if(filePtr2 == NULL){
         printf("ERR: %s could not be opened", filePath);
     } else{
-        //fprintf(filePtr2, "%d %s %s %d %.2f\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate/*, tempWord, tempExcel, tempDatabase*/);
+        fprintf(filePtr2, "%d %s %s %d %.2f\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate/*, tempWord, tempExcel, tempDatabase*/);
     }
     while(worker->nextWorker != NULL){
         /*if(worker->nextWorker->word){
@@ -228,7 +228,7 @@ void udskrivalt(struct Worker* worker){
         if(filePtr2 == NULL){
             printf("ERR: %s could not be opened", filePath);
         } else{
-            //fprintf(filePtr2, "%d %s %s %d %.2f\n"/*, worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate, tempWord, tempExcel, tempDatabase*/);
+            fprintf(filePtr2, "%d %s %s %d %.2f\n", worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate/*, tempWord, tempExcel, tempDatabase*/);
         }
         worker = worker->nextWorker;
     }
@@ -264,8 +264,6 @@ void deleteAllWorkers(struct Worker* worker){
 }
 
 void tilfoej(struct Worker* worker, char* firstName, char* surName, int departmentId, float rate){
-    FILE* filstuff;
-    filstuff = fopen("./workerInfo.txt", "a");
     while(worker->nextWorker != NULL){
         worker = worker->nextWorker;
     }
@@ -273,15 +271,14 @@ void tilfoej(struct Worker* worker, char* firstName, char* surName, int departme
     struct Worker* newWorker = malloc(sizeof(worker));
     worker->nextWorker = newWorker;
     newWorker->prevWorker = worker;
-    fprintf(filstuff, "skrrt");
-    /*newWorker->nextWorker = NULL;
+    newWorker->nextWorker = NULL;
     worker = newWorker;
 
     worker->workerId = worker->prevWorker->workerId + 1;
     worker->firstName = firstName;
     worker->surName = surName;
     worker->departmentId = departmentId;
-    worker->rate = rate;*/
+    worker->rate = rate;
 }
 
 void nysats(struct Worker* worker, int department, float percentIncrease){
@@ -296,6 +293,22 @@ void nysats(struct Worker* worker, int department, float percentIncrease){
     } while(worker->nextWorker != NULL);
 }
 
+void gennemsnit(struct Worker* worker){
+    float total;
+    int workerCount;
+    int avgRate;
+    while(worker->prevWorker != NULL){
+        worker = worker->prevWorker;
+    }
+    while(worker->nextWorker != NULL){
+        total += worker->rate;
+        workerCount++;
+        worker = worker->nextWorker;
+    }
+    avgRate = total/(float)workerCount;
+
+}
+
 int main()
 {
     //dynamicBuffer* buffer = allocNewBuffer();
@@ -305,25 +318,24 @@ int main()
     //Reads all other workers from file, and links them to first worker
     firstWorker = indlaes();
 
-    
+    //Calculates the average rate
+    //gennemsnit(firstWorker);
 
     //Prints all workers information
     udskrivalt(firstWorker);
 
     //Sets new rate
-    /*nysats(firstWorker, 3, 5.f);
-    udskrivalt(firstWorker);*/
+    nysats(firstWorker, 3, 5.f);
+    udskrivalt(firstWorker);
 
     //Adds a new worker
-    /*tilfoej(firstWorker, "Erik", "Eriksen", 3, 260.75);
-    udskrivalt(firstWorker);*/
+    tilfoej(firstWorker, "Erik", "Eriksen", 3, 260.75);
+    udskrivalt(firstWorker);
     
 
-    /*//Deletes worker 4
+    //Deletes worker 4
     slet(firstWorker, 4);
-    udskrivalt(firstWorker);*/
-
-
+    udskrivalt(firstWorker);
 
     deleteAllWorkers(firstWorker);
     return 0;
