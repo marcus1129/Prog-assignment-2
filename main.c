@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <errno.h>
+#include <string.h>
 
 
 ///////// Buffer stuff, might use later //////////////
@@ -55,17 +57,12 @@ typedef struct Worker{
     float rate;
     struct Worker* prevWorker;
     struct Worker* nextWorker;
-    /*bool word;
+    bool word;
     bool excel;
-    bool database;*/
+    bool database;
 } worker;
 
-struct Worker* indlaes(){
-    //Opens file
-    const char* workerInfoPath = "./tekstfil.txt";
-    FILE *filePtr;
-    filePtr = fopen(workerInfoPath, "r");
-
+struct Worker* indlaes(FILE* filePtr){
     //Initiates string buffer
     char* buffer = malloc(1001);
     buffer[1001] = '\0';
@@ -168,23 +165,17 @@ struct Worker* indlaes(){
     while(currWorker->prevWorker != NULL){
         currWorker = currWorker->prevWorker;
     }
-    fclose(filePtr);
     return currWorker;
 }
 
-void udskrivalt(struct Worker* worker){
-    //Opens file
-    const char* filePath = "./workerInfo.txt";
-    FILE *filePtr2;
-    filePtr2 = fopen(filePath, "a");
-
+void udskrivalt(struct Worker* worker, FILE* filePtr2){
     //Sets current active worker to the first worker
     while(worker->prevWorker != NULL){
         worker = worker->prevWorker;
     }
 
     //Prints all workers information
-    /*char* tempWord;
+    char* tempWord;
     char* tempExcel;
     char* tempDatabase;
     if(worker->word){
@@ -201,15 +192,15 @@ void udskrivalt(struct Worker* worker){
         tempDatabase = "Taken";
     } else{
         tempDatabase = "Not taken";
-    }*/
-    printf("%d %s %s %d %.2f\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate/*, tempWord, tempExcel, tempDatabase*/);
+    }
+    printf("%d %s %s %d %.2f Word: %s, Excel: %s, Database: %s\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate, tempWord, tempExcel, tempDatabase);
     if(filePtr2 == NULL){
-        printf("ERR: %s could not be opened", filePath);
+        printf("Error opening file");
     } else{
-        fprintf(filePtr2, "%d %s %s %d %.2f\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate/*, tempWord, tempExcel, tempDatabase*/);
+        fprintf(filePtr2, "%d %s %s %d %.2f Word: %s, Excel: %s, Database: %s\n", worker->workerId, worker->firstName, worker->surName, worker->departmentId, worker->rate, tempWord, tempExcel, tempDatabase);
     }
     while(worker->nextWorker != NULL){
-        /*if(worker->nextWorker->word){
+        if(worker->nextWorker->word){
             tempWord = "Taken";
         } else{
             tempWord = "Not taken";
@@ -223,18 +214,21 @@ void udskrivalt(struct Worker* worker){
             tempDatabase = "Taken";
         } else{
             tempDatabase = "Not taken";
-        }*/
-        printf("%d %s %s %d %.2f\n", worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate/*, tempWord, tempExcel, tempDatabase*/);
+        }
+        printf("%d %s %s %d %.2f Word: %s, Excel: %s, Database: %s\n", worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate, tempWord, tempExcel, tempDatabase);
         if(filePtr2 == NULL){
-            printf("ERR: %s could not be opened", filePath);
+            printf("Error opening file");
         } else{
-            fprintf(filePtr2, "%d %s %s %d %.2f\n", worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate/*, tempWord, tempExcel, tempDatabase*/);
+            fprintf(filePtr2, "%d %s %s %d %.2f Word: %s, Excel: %s, Database: %s\n", worker->nextWorker->workerId, worker->nextWorker->firstName, worker->nextWorker->surName, worker->nextWorker->departmentId, worker->nextWorker->rate, tempWord, tempExcel, tempDatabase);
         }
         worker = worker->nextWorker;
     }
     printf("\n");
-    fprintf(filePtr2, "\n");
-    fclose(filePtr2);
+    if(filePtr2 == NULL){
+        printf("Error opening file");
+    } else{
+        fprintf(filePtr2, "\n");
+    }
 }
 
 void slet(struct Worker* worker, int workerIndex){
@@ -264,21 +258,23 @@ void deleteAllWorkers(struct Worker* worker){
 }
 
 void tilfoej(struct Worker* worker, char* firstName, char* surName, int departmentId, float rate){
-    while(worker->nextWorker != NULL){
-        worker = worker->nextWorker;
+    struct Worker* activeWorker = worker;
+    while(activeWorker->nextWorker != NULL){
+        activeWorker = activeWorker->nextWorker;
     }
-    
-    struct Worker* newWorker = malloc(sizeof(worker));
-    worker->nextWorker = newWorker;
-    newWorker->prevWorker = worker;
-    //newWorker->nextWorker = NULL;
-    worker = newWorker;
 
-    worker->workerId = worker->prevWorker->workerId + 1;
-    worker->firstName = firstName;
-    worker->surName = surName;
-    worker->departmentId = departmentId;
-    worker->rate = rate;
+    struct Worker* newWorker = malloc(sizeof(worker));
+    activeWorker->nextWorker = newWorker;
+    newWorker->prevWorker = activeWorker;
+    newWorker->nextWorker = NULL;
+    
+    activeWorker = newWorker;
+
+    activeWorker->workerId = activeWorker->prevWorker->workerId + 1;
+    activeWorker->firstName = firstName;
+    activeWorker->surName = surName;
+    activeWorker->departmentId = departmentId;
+    activeWorker->rate = rate;
 }
 
 void nysats(struct Worker* worker, int department, float percentIncrease){
@@ -293,14 +289,10 @@ void nysats(struct Worker* worker, int department, float percentIncrease){
     } while(worker->nextWorker != NULL);
 }
 
-void gennemsnit(struct Worker* worker){
+void gennemsnit(struct Worker* worker, FILE* filePtr){
     float total;
     float avgRate;
     int workerCount;
-
-    const char* filePath2 = "./workerInfo";
-    FILE* filePtr3;
-    filePtr3 = fopen(filePath2, "a");
 
     while(worker->prevWorker != NULL){
         worker = worker->prevWorker;
@@ -314,39 +306,128 @@ void gennemsnit(struct Worker* worker){
     }
     avgRate = total/(float)workerCount;
     printf("Average Rate: %d\n", workerCount);
-    if(filePtr3 != NULL){
-        fprintf(filePtr3, "Average Rate: %.2f\n", avgRate);
+    if(filePtr != NULL){
+        fprintf(filePtr, "Average Rate: %.2f\n", avgRate);
     }
-    fclose(filePtr3);
+}
+
+void indlaeskurser(struct Worker* worker, FILE* filePtr3){
+    //Initiates string buffer
+    char* buffer = malloc(1001);
+    int idDigits;
+    char tempId[30];
+    int tempComp;
+    buffer[1001] = '\0';
+    while(worker->prevWorker != NULL){
+        worker = worker->prevWorker;
+    }
+    worker->word = false;
+    worker->excel = false;
+    worker->database = false;
+    while(worker->nextWorker != NULL){
+        worker->nextWorker->word = false;
+        worker->nextWorker->excel = false;
+        worker->nextWorker->database = false;
+        worker = worker->nextWorker;
+    }
+
+    //Reads from file
+    while(fgets(buffer, 1000, filePtr3)!= NULL){
+        //Defines how many digits workerId is
+        for(int z = 0; z < 30; z++){
+            if(buffer[z] == ' '){
+                idDigits = z;
+                z = 30;
+            }
+        }
+
+        //Stores workerId in current active worker
+        for(int z = 0; z < idDigits; z++){
+            tempId[z] = buffer[z];
+        }
+        tempId[idDigits] = '\0';
+
+        if(idDigits > 1){
+            tempComp = atoi(tempId);
+        } else{
+            tempComp = tempId[0] - '0';
+        }
+
+        char* temp = malloc(30);
+        while(worker->prevWorker != NULL){
+            worker = worker->prevWorker;
+        }
+        while(worker->workerId != tempComp){
+            worker = worker->nextWorker;
+        }
+        for(int z = 0; z < 30; z++){
+            if(buffer[z + idDigits + 1] == '\n'){
+                temp[z] = '\0';
+                z = 30;
+            } else{
+                temp[z] = buffer[z + idDigits + 1];
+            }
+        }
+        if(strcmp(temp, "word") == 0){
+            worker->word = true;
+        } else if(strcmp(temp, "excel") == 0){
+            worker->excel = true;
+        } else if(strcmp(temp, "database") == 0){
+            worker->database = true;
+        }
+        memset(temp,0,strlen(temp));
+    }
 }
 
 int main()
 {
+    const char* filePath = "./workerInfo.txt";
+    const char* workerInfoPath = "./tekstfil.txt";
+    const char* coursePath = "./kurser.txt";
+    FILE* filePtr;
+    FILE* filePtr2;
+    FILE* filePtr3;
+    filePtr = fopen(filePath, "a");
+    filePtr2 = fopen(workerInfoPath, "r");
+    filePtr3 = fopen(coursePath, "r");
+    
+
     //dynamicBuffer* buffer = allocNewBuffer();
     //Creates new worker
     struct Worker* firstWorker;
 
     //Reads all other workers from file, and links them to first worker
-    firstWorker = indlaes();
+    firstWorker = indlaes(filePtr2);
+
+    //Gets worker courses
+    indlaeskurser(firstWorker, filePtr3);
 
     //Prints all workers information
-    udskrivalt(firstWorker);
+    udskrivalt(firstWorker, filePtr);
 
     //Calculates the average rate
-    gennemsnit(firstWorker);
+    gennemsnit(firstWorker, filePtr);
 
     //Sets new rate
     nysats(firstWorker, 3, 5.f);
-    udskrivalt(firstWorker);
+    udskrivalt(firstWorker, filePtr);
 
     //Adds a new worker
     tilfoej(firstWorker, "Erik", "Eriksen", 3, 260.75);
-    udskrivalt(firstWorker);
+    udskrivalt(firstWorker, filePtr);
     
     //Deletes worker 4
     slet(firstWorker, 4);
-    udskrivalt(firstWorker);
+    udskrivalt(firstWorker, filePtr);
 
     deleteAllWorkers(firstWorker);
+
+    fflush(filePtr);
+    fflush(filePtr2);
+    fflush(filePtr3);
+
+    fclose(filePtr);
+    fclose(filePtr2);
+    fclose(filePtr3);
     return 0;
 }
