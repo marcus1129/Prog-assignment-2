@@ -241,7 +241,7 @@ void slet(struct Worker* worker, int workerIndex){
     }
     worker->prevWorker->nextWorker = worker->nextWorker;
     worker->nextWorker->prevWorker = worker->prevWorker;
-    free(worker);
+    //free(worker);
 }
 
 void deleteAllWorkers(struct Worker* worker){
@@ -379,6 +379,53 @@ void indlaeskurser(struct Worker* worker, FILE* filePtr3){
     }
 }
 
+void kursusmed(struct Worker* worker, FILE* filePtr, const char* course){
+    int workerList[40];
+    int i = 0;
+    while(worker->prevWorker != NULL){
+        worker = worker->prevWorker;
+    }
+    if(strcmp(course, "word") == 0){
+        if(worker->word == true){
+            workerList[i] = worker->workerId;
+            i++;
+        }
+    } else if(strcmp(course, "excel") == 0){
+        if(worker->excel == true){
+            workerList[i] = worker->workerId;
+            i++;
+        }
+    } else if(strcmp(course, "database") == 0){
+        if(worker->database == true){
+            workerList[i] = worker->workerId;
+            i++;
+        }
+    }
+    
+    while(worker->nextWorker != NULL){
+        if(strcmp(course, "word") == 0){
+            if(worker->nextWorker->word == true){
+                workerList[i] = worker->nextWorker->workerId;
+                i++;
+            }
+        } else if(strcmp(course, "excel") == 0){
+            if(worker->nextWorker->excel == true){
+                workerList[i] = worker->nextWorker->workerId;
+                i++;
+            }
+        } else if(strcmp(course, "database") == 0){
+            if(worker->nextWorker->database == true){
+                workerList[i] = worker->nextWorker->workerId;
+                i++;
+            }
+        }
+        worker = worker->nextWorker;
+    }
+    for(int z = 0; z < i; z++){
+        printf("%d\n", workerList[z]);
+    }
+}
+
 int main()
 {
     const char* filePath = "./workerInfo.txt";
@@ -420,6 +467,10 @@ int main()
     slet(firstWorker, 4);
     udskrivalt(firstWorker, filePtr);
 
+    //Gets all workers that has taken the course
+    kursusmed(firstWorker, filePtr, "word");
+
+    //Deletes all workers
     deleteAllWorkers(firstWorker);
 
     fflush(filePtr);

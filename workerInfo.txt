@@ -24922,3 +24922,53 @@ Average Rate: 0.00
 11 Poul Petersen 3 175.25 Word: Not taken, Excel: Not taken, Database: Not taken
 12 Erik Eriksen 3 260.75 Word: Taken, Excel: Taken, Database: Taken
 
+1 Bente Jensen 2 250.50 Word: Taken, Excel: Taken, Database: Taken
+2 Jens Hansen 3 175.25 Word: Taken, Excel: Not taken, Database: Taken
+3 Peter Johansen 1 325.00 Word: Not taken, Excel: Taken, Database: Not taken
+4 Anni Gade 2 199.75 Word: Taken, Excel: Not taken, Database: Taken
+5 Merete Hansen 3 225.75 Word: Not taken, Excel: Not taken, Database: Taken
+6 Anton Holm 1 165.25 Word: Taken, Excel: Not taken, Database: Not taken
+7 Sonja Andersen 2 235.75 Word: Taken, Excel: Taken, Database: Not taken
+8 Niels Nielsen 3 187.50 Word: Not taken, Excel: Not taken, Database: Not taken
+9 Tom Bentsen 1 150.00 Word: Not taken, Excel: Not taken, Database: Not taken
+10 Clara Larsen 2 200.00 Word: Taken, Excel: Taken, Database: Not taken
+11 Poul Petersen 3 175.25 Word: Not taken, Excel: Not taken, Database: Not taken
+
+Average Rate: 0.00
+1 Bente Jensen 3 263.02 Word: Taken, Excel: Taken, Database: Taken
+2 Jens Hansen 3 184.01 Word: Taken, Excel: Not taken, Database: Taken
+3 Peter Johansen 3 341.25 Word: Not taken, Excel: Taken, Database: Not taken
+4 Anni Gade 3 209.74 Word: Taken, Excel: Not taken, Database: Taken
+5 Merete Hansen 3 237.04 Word: Not taken, Excel: Not taken, Database: Taken
+6 Anton Holm 3 173.51 Word: Taken, Excel: Not taken, Database: Not taken
+7 Sonja Andersen 3 247.54 Word: Taken, Excel: Taken, Database: Not taken
+8 Niels Nielsen 3 196.87 Word: Not taken, Excel: Not taken, Database: Not taken
+9 Tom Bentsen 3 157.50 Word: Not taken, Excel: Not taken, Database: Not taken
+10 Clara Larsen 3 210.00 Word: Taken, Excel: Taken, Database: Not taken
+11 Poul Petersen 3 175.25 Word: Not taken, Excel: Not taken, Database: Not taken
+
+1 Bente Jensen 3 263.02 Word: Taken, Excel: Taken, Database: Taken
+2 Jens Hansen 3 184.01 Word: Taken, Excel: Not taken, Database: Taken
+3 Peter Johansen 3 341.25 Word: Not taken, Excel: Taken, Database: Not taken
+4 Anni Gade 3 209.74 Word: Taken, Excel: Not taken, Database: Taken
+5 Merete Hansen 3 237.04 Word: Not taken, Excel: Not taken, Database: Taken
+6 Anton Holm 3 173.51 Word: Taken, Excel: Not taken, Database: Not taken
+7 Sonja Andersen 3 247.54 Word: Taken, Excel: Taken, Database: Not taken
+8 Niels Nielsen 3 196.87 Word: Not taken, Excel: Not taken, Database: Not taken
+9 Tom Bentsen 3 157.50 Word: Not taken, Excel: Not taken, Database: Not taken
+10 Clara Larsen 3 210.00 Word: Taken, Excel: Taken, Database: Not taken
+11 Poul Petersen 3 175.25 Word: Not taken, Excel: Not taken, Database: Not taken
+12 Erik Eriksen 3 260.75 Word: Not taken, Excel: Not taken, Database: Not taken
+
+1 Bente Jensen 3 263.02 Word: Taken, Excel: Taken, Database: Taken
+2 Jens Hansen 3 184.01 Word: Taken, Excel: Not taken, Database: Taken
+3 Peter Johansen 3 341.25 Word: Not taken, Excel: Taken, Database: Not taken
+5 Merete Hansen 3 237.04 Word: Not taken, Excel: Not taken, Database: Taken
+6 Anton Holm 3 173.51 Word: Taken, Excel: Not taken, Database: Not taken
+7 Sonja Andersen 3 247.54 Word: Taken, Excel: Taken, Database: Not taken
+8 Niels Nielsen 3 196.87 Word: Not taken, Excel: Not taken, Database: Not taken
+9 Tom Bentsen 3 157.50 Word: Not taken, Excel: Not taken, Database: Not taken
+10 Clara Larsen 3 210.00 Word: Taken, Excel: Taken, Database: Not taken
+11 Poul Petersen 3 175.25 Word: Not taken, Excel: Not taken, Database: Not taken
+12 Erik Eriksen 3 260.75 Word: Not taken, Excel: Not taken, Database: Not taken
+
