@@ -421,8 +421,11 @@ void kursusmed(struct Worker* worker, FILE* filePtr, const char* course){
         }
         worker = worker->nextWorker;
     }
+    printf("Following workers has completed the course '%s':\n", course);
+    fprintf(filePtr, "Following workers has completed the course '%s':\n", course);
     for(int z = 0; z < i; z++){
         printf("%d\n", workerList[z]);
+        fprintf(filePtr, "%d\n", workerList[z]);
     }
 }
 
